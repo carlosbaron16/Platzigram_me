@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Platzigram</string>
+    <string name="title_activity_referencia">ReferenciaActivity</string>
+    <string name="hint_username">Nombre de usuario</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="text_botton_loging">Login</string>
+    <string name="dont_have_account">¿No tienes Cuenta?,</string>
+    <string name="create_here">Crea una aqui.</string>
+    <string name="hint_email">Correo</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_user">Usuario</string>
+    <string name="hint_confirmpassword">Confirme contraseña</string>
+    <string name="text_botton_createaccount">Unete</string>
+    <string name="toolbar_tittle_createaccount">Crear Cuenta</string>
+    <string name="hint_confirm_password">Confirmar Contraseña</string>
+    <string name="text_button_createaccount">Unete</string>
+    <string name="firstword_card">Hace</string>
+    <string name="timecard_card">4 dias</string>
+    <string name="likenumber_card">10 me gusta</string>
+    <string name="tab_search">Buscar</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_profile">Yo</string>
+    <string name="foto_de_usuario">Foto de usuario</string>
+    <string name="username_card">Uriel Ramírez</string>
+    <string name="home">Home</string>
+    <string name="transitionname_picture">transitionnamepicture</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_button_login">LOGIN</string>
+    <string name="secondword_detail">Me gusta</string>
+    <string name="titleimagedetail">Todo copas en la playa</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas iaculis id neque sit amet tincidunt. Proin ut sem ut mauris mollis consequat eu quis ipsum. Proin porta, tortor sed vestibulum dictum, augue justo mattis risus, in pellentesque mi diam dictum libero. Maecenas venenatis lectus at elit tincidunt tincidunt. Vivamus eget finibus nisi. Quisque posuere massa non pellentesque tempus. Pellentesque vel leo elit. Curabitur elementum arcu eget lacus dapibus pretium. Integer nibh mauris, condimentum sit amet mauris eu, mollis laoreet odio. Vivamus et nunc eget est cursus bibendum. Aenean libero libero, malesuada sit amet molestie non, elementum a urna. Suspendisse eget nulla vehicula, rutrum dolor tincidunt, sodales ante. Praesent consequat purus ut diam malesuada, sit amet dapibus nibh auctor.  Maecenas at posuere nisi. Phasellus finibus consequat neque vitae gravida. Quisque eu purus nisi. Curabitur vitae elit sapien. Proin a eros commodo sem ultricies gravida sed id nisl. Vestibulum sed dui pulvinar, fringilla turpis vitae, tincidunt mi. Sed a felis tempus, lobortis lacus id, feugiat erat. Nunc aliquet lorem eget dolor euismod volutpat. Nullam lacinia nulla quis tempor pretium. Phasellus imperdiet ex vitae massa sollicitudin, nec feugiat turpis mollis.  Duis vel neque felis. Nulla elit sapien, efficitur vitae facilisis ut, vulputate mollis purus. Donec sit amet tortor nec magna ullamcorper sodales. Integer ut rutrum ex. Nulla sem ipsum, pulvinar lacinia efficitur nec, iaculis eget massa. Aliquam accumsan congue condimentum. Aliquam efficitur rutrum dui, at fringilla ex. Pellentesque id lobortis lacus. Sed placerat tellus nec feugiat varius. Duis massa felis, mollis sed quam eu, tristique ultricies urna. Proin vel tortor neque. Curabitur sollicitudin ornare lacus eget sagittis. Integer tempus leo nec arcu consequat accumsan. Curabitur pharetra felis ipsum, quis interdum elit vehicula ut.  Vestibulum sed leo metus. In blandit leo eu sapien hendrerit, et convallis nibh faucibus. Nunc non nisi et augue pharetra fringilla in efficitur tellus. Donec maximus velit tortor, at luctus dui euismod consectetur. Ut a suscipit turpis. Vestibulum a arcu libero. Pellentesque ut tellus at lacus varius condimentum id vitae orci. Cras mi dolor, viverra congue porttitor imperdiet, euismod non lectus. Quisque ullamcorper rhoncus magna facilisis blandit. Phasellus ut commodo urna. Mauris consectetur massa sit amet nulla porta, eu rhoncus enim consequat. Duis finibus purus leo, in porttitor libero porttitor ut. Cras id nisi nec massa ornare placerat egestas a tortor. Donec quis fringilla mauris. Lorem ipsum dolor sit amet, consectetur adipiscing elit.  Sed tincidunt, nisl vel iaculis bibendum, lectus enim venenatis purus, sit amet tincidunt libero ex nec urna. Sed dignissim rhoncus mi, dapibus fermentum lacus sollicitudin ac. Sed a vestibulum odio. Nullam ullamcorper ligula vitae nisl molestie, vel laoreet eros ultricies. Integer enim nunc, eleifend et nulla ac, porta malesuada lectus. Quisque efficitur euismod sollicitudin. Proin diam erat, mattis vitae purus quis, bibendum sollicitudin felis. Nam tempor vel mi non rutrum. Etiam sollicitudin, ante et sagittis tristique, velit enim feugiat enim, sit amet scelerisque mauris urna et nibh. Vivamus eget urna lorem.</string>
+
+</resources>
